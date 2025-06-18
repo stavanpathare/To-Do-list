@@ -20,8 +20,7 @@
 
  - Desktop
  ![Homepage](images/screenshot.png)
- - Mobile
- ![Homepage](images/screenshot2.png)
+
 
 ---
 
